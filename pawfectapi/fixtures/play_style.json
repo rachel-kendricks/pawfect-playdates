@@ -1,0 +1,23 @@
+[
+    {
+      "model": "pawfectapi.play_style",
+      "pk": 1,
+      "fields": {
+        "name": "Rough"
+        }
+    },
+    {
+        "model": "pawfectapi.play_style",
+        "pk": 2,
+        "fields": {
+            "name": "Standard"
+            }
+      },
+      {
+        "model": "pawfectapi.play_style",
+        "pk": 3,
+        "fields": {
+            "name": "Gentle"
+            }
+      }
+]

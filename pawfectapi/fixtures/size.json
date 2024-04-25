@@ -1,0 +1,23 @@
+[
+    {
+      "model": "pawfectapi.size",
+      "pk": 1,
+      "fields": {
+        "name": "Small (less than 25 lbs)"
+        }
+    },
+    {
+        "model": "pawfectapi.size",
+        "pk": 2,
+        "fields": {
+            "name": "Medium (25-55 lbs)"
+            }
+      },
+      {
+        "model": "pawfectapi.size",
+        "pk": 3,
+        "fields": {
+            "name": "Large (over 55 lbs)"
+            }
+      }
+]

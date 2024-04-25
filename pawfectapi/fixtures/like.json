@@ -1,0 +1,98 @@
+[
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "pet": 1
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 2,
+      "fields": {
+        "user": 1,
+        "pet": 4
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 3,
+      "fields": {
+        "user": 1,
+        "pet": 7
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "pet": 2
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 5,
+      "fields": {
+        "user": 2,
+        "pet": 5
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 6,
+      "fields": {
+        "user": 2,
+        "pet": 8
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 7,
+      "fields": {
+        "user": 3,
+        "pet": 3
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 8,
+      "fields": {
+        "user": 3,
+        "pet": 6
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 9,
+      "fields": {
+        "user": 3,
+        "pet": 9
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 10,
+      "fields": {
+        "user": 4,
+        "pet": 10
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 11,
+      "fields": {
+        "user": 4,
+        "pet": 11
+      }
+    },
+    {
+      "model": "pawfectapi.favorite",
+      "pk": 12,
+      "fields": {
+        "user": 4,
+        "pet": 12
+      }
+    }
+  ]
