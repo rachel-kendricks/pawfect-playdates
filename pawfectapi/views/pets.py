@@ -82,6 +82,7 @@ class Pets(ViewSet):
         pet_play_style = Play_style(pk=pet_play_style_id)
         pet.play_style = pet_play_style
         pet.bio = request.data["bio"]
+        pet.img = request.data["img"]
         pet.save()
 
         return Response({}, status=status.HTTP_204_NO_CONTENT)
@@ -109,6 +110,7 @@ class Pets(ViewSet):
         pet.size = pet_size
         pet.play_style = pet_play_style
         pet.bio = request.data["bio"]
+        pet.img = request.data["img"]
         pet.save()
 
         serialized = PetSerializer(pet, many=False)
