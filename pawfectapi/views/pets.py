@@ -7,21 +7,8 @@ from django.http import HttpResponseServerError
 from pawfectapi.models import Pet, Play_style, Size, Favorite
 from pawfectapi.views.play_styles import PlayStyleSerializer
 from pawfectapi.views.sizes import SizeSerializer
+from pawfectapi.views.users import UserSerializer
 from django.contrib.auth.models import User
-
-
-class UserSerializer(serializers.HyperlinkedModelSerializer):
-
-    class Meta:
-        model = User
-        fields = (
-            "id",
-            "username",
-            "first_name",
-            "last_name",
-            "email",
-            "password",
-        )
 
 
 class PetSerializer(serializers.ModelSerializer):
@@ -152,5 +139,18 @@ class Pets(ViewSet):
         pets = Pet.objects.filter(id__in=favorited_pets)
 
         serializer = PetSerializer(pets, many=True, context={"request": request})
+
+        return Response(serializer.data)
+
+    @action(methods=["get"], detail=False)
+    def user_pets(self, request):
+        """Get all the user's pet profiles"""
+
+        user = request.auth.user
+        user_pet_profiles = Pet.objects.filter(user=user)
+
+        serializer = PetSerializer(
+            user_pet_profiles, many=True, context={"request": request}
+        )
 
         return Response(serializer.data)
