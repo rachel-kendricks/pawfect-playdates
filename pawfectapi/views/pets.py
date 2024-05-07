@@ -29,6 +29,7 @@ class PetSerializer(serializers.ModelSerializer):
             "size",
             "play_style",
             "bio",
+            "img",
         )
         depth = 1
 

@@ -8,7 +8,8 @@
         "breed": "Labrador Retriever",
         "size": 3,
         "play_style": 2,
-        "bio": "I'm a friendly and energetic pup who loves to go on long walks and play fetch in the park. My goofy personality and wagging tail will brighten your day. I'm always up for cuddles on the couch after a fun-filled day of adventure!"
+        "bio": "I'm a friendly and energetic pup who loves to go on long walks and play fetch in the park. My goofy personality and wagging tail will brighten your day. I'm always up for cuddles on the couch after a fun-filled day of adventure!",
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbfcc1ba-1d3a-407b-9d4e-ef5d88829892/dbxasn6-995a375a-fa51-4178-87b0-bd09e8e26b52.jpg/v1/fill/w_1024,h_1220,q_75,strp/dimpel_my_funny_labrador_by_ime_photography_dbxasn6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyMCIsInBhdGgiOiJcL2ZcL2NiZmNjMWJhLTFkM2EtNDA3Yi05ZDRlLWVmNWQ4ODgyOTg5MlwvZGJ4YXNuNi05OTVhMzc1YS1mYTUxLTQxNzgtODdiMC1iZDA5ZThlMjZiNTIuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.d8e2Ga5WsYP_EzqjJgGiNqoCeoR4gJWa8k2RqeRZS88"
       }
     },
     {
@@ -20,7 +21,8 @@
         "breed": "French Bulldog",
         "size": 1,
         "play_style": 3,
-        "bio": "I may be small, but I'm full of personality! I love to snuggle up with my humans and watch movies, but I'm also game for a round of tug-of-war or chasing squirrels in the backyard. My adorable bat ears and wrinkly face will melt your heart."
+        "bio": "I may be small, but I'm full of personality! I love to snuggle up with my humans and watch movies, but I'm also game for a round of tug-of-war or chasing squirrels in the backyard. My adorable bat ears and wrinkly face will melt your heart.",
+        "img": "https://i.pinimg.com/736x/b1/7c/d0/b17cd08939da001a1478f0acce93d78f.jpg"
       }
     },
     {
@@ -32,7 +34,8 @@
         "breed": "German Shepherd",
         "size": 3,
         "play_style": 1,
-        "bio": "I'm a loyal and protective companion who takes my job seriously. Whether we're going for a run or practicing obedience training, I'll give my all. But don't worry, I also have a goofy side and love to play fetch and chase after tennis balls."
+        "bio": "I'm a loyal and protective companion who takes my job seriously. Whether we're going for a run or practicing obedience training, I'll give my all. But don't worry, I also have a goofy side and love to play fetch and chase after tennis balls.",
+        "img": "https://live.staticflickr.com/8659/16080758264_4700645e2d_z.jpg"
       }
     },
     {
@@ -44,7 +47,8 @@
         "breed": "Poodle",
         "size": 2,
         "play_style": 2,
-        "bio": "I'm an intelligent and hypoallergenic pup who loves to learn new tricks. Whether we're practicing agility courses or just playing hide-and-seek, my active mind craves mental stimulation. But I'm also a cuddle bug who loves to snuggle up with my humans after a busy day."
+        "bio": "I'm an intelligent and hypoallergenic pup who loves to learn new tricks. Whether we're practicing agility courses or just playing hide-and-seek, my active mind craves mental stimulation. But I'm also a cuddle bug who loves to snuggle up with my humans after a busy day.",
+        "img": "https://media.istockphoto.com/id/1170575105/photo/gray-toy-poodle-dog.jpg?s=612x612&w=0&k=20&c=x6IgLB9ljiIUpd8EBeT7Yd3pjabBkoRxWhwJ58wc4NA="
       }
     },
     {
@@ -56,7 +60,8 @@
         "breed": "Beagle",
         "size": 2,
         "play_style": 2,
-        "bio": "I'm a friendly and curious hound who loves to go on adventures and explore new places. My keen sense of smell means I'll always be able to sniff out the best treats and track down any squirrels in the neighborhood. But I'm also a lovable couch potato who enjoys cuddles and belly rubs."
+        "bio": "I'm a friendly and curious hound who loves to go on adventures and explore new places. My keen sense of smell means I'll always be able to sniff out the best treats and track down any squirrels in the neighborhood. But I'm also a lovable couch potato who enjoys cuddles and belly rubs.",
+        "img": "https://pics.craiyon.com/2023-11-13/FT2Meec8S06-jHTba9dI1Q.webp"
       }
     },
     {
@@ -68,7 +73,8 @@
         "breed": "Bulldog",
         "size": 2,
         "play_style": 1,
-        "bio": "I may look tough, but I'm a big softy at heart. I love to play rough and tumble games, but I'm also perfectly content to lounge around and keep you company. My loyal and courageous spirit means I'll always have your back, no matter what."
+        "bio": "I may look tough, but I'm a big softy at heart. I love to play rough and tumble games, but I'm also perfectly content to lounge around and keep you company. My loyal and courageous spirit means I'll always have your back, no matter what.",
+        "img": "https://www.boredpanda.com/blog/wp-content/uploads/2021/09/cute-bulldog-pictures-88-614c56048ef46__700.jpg"
       }
     },
     {
@@ -80,7 +86,8 @@
         "breed": "Shih Tzu",
         "size": 1,
         "play_style": 2,
-        "bio": "I'm an energetic and loving lap dog who loves to be the center of attention. Whether we're playing with toys or going for a walk, I'll keep you entertained with my playful antics. But at the end of the day, I just want to snuggle up on your lap and showered with affection."
+        "bio": "I'm an energetic and loving lap dog who loves to be the center of attention. Whether we're playing with toys or going for a walk, I'll keep you entertained with my playful antics. But at the end of the day, I just want to snuggle up on your lap and showered with affection.",
+        "img": "https://img.freepik.com/premium-photo/cute-funny-shih-tzu-breed-dog-outdoors-dog-grooming-funny-dog-city_357532-2944.jpg"
       }
     },
     {
@@ -92,7 +99,8 @@
         "breed": "Golden Retriever",
         "size": 3,
         "play_style": 2,
-        "bio": "I'm a friendly and gentle family dog who loves to play and go on adventures. Whether we're hiking in the woods or swimming in the lake, I'll be right by your side. But I'm also a loving companion who enjoys cuddling up and watching movies with my favorite humans."
+        "bio": "I'm a friendly and gentle family dog who loves to play and go on adventures. Whether we're hiking in the woods or swimming in the lake, I'll be right by your side. But I'm also a loving companion who enjoys cuddling up and watching movies with my favorite humans.",
+        "img": "https://i.pinimg.com/736x/20/ef/62/20ef624fa1a2ea682419b0e6b8b01ab7.jpg"
       }
     },
     {
@@ -104,7 +112,8 @@
         "breed": "Rottweiler",
         "size": 3,
         "play_style": 1,
-        "bio": "I'm a confident and loyal protector who takes my job seriously. I'm always on the lookout for any potential threats, but I also know how to have fun. I love to play tug-of-war and go for long runs in the park. At the end of the day, I'm a big softie who just wants to cuddle up with my humans."
+        "bio": "I'm a confident and loyal protector who takes my job seriously. I'm always on the lookout for any potential threats, but I also know how to have fun. I love to play tug-of-war and go for long runs in the park. At the end of the day, I'm a big softie who just wants to cuddle up with my humans.",
+        "img": "https://i.pinimg.com/736x/f7/d0/aa/f7d0aaafce93aee00550dddd6987105b.jpg"
       }
     },
     {
@@ -116,7 +125,8 @@
         "breed": "Maltese",
         "size": 1,
         "play_style": 3,
-        "bio": "I'm a gentle and loving companion who loves to be pampered. Whether we're playing dress-up or getting groomed, I'll be the perfect accessory by your side. But I also have a playful side and love to chase after toys and play games. I'm the perfect lap dog for cuddling and watching movies together."
+        "bio": "I'm a gentle and loving companion who loves to be pampered. Whether we're playing dress-up or getting groomed, I'll be the perfect accessory by your side. But I also have a playful side and love to chase after toys and play games. I'm the perfect lap dog for cuddling and watching movies together.",
+        "img": "https://i.pinimg.com/originals/4f/0b/1c/4f0b1c81a94a28c29f975b970c21e17d.jpg"
       }
     },
     {
@@ -128,7 +138,8 @@
         "breed": "Boxer",
         "size": 2,
         "play_style": 2,
-        "bio": "I'm an energetic and playful companion who loves to keep you on your toes. Whether we're playing fetch, going for a run, or just wrestling around the house, I'll always be up for a good time. But I also have a sweet and affectionate side, and I love to snuggle up and give slobbery kisses to my favorite humans."
+        "bio": "I'm an energetic and playful companion who loves to keep you on your toes. Whether we're playing fetch, going for a run, or just wrestling around the house, I'll always be up for a good time. But I also have a sweet and affectionate side, and I love to snuggle up and give slobbery kisses to my favorite humans.",
+        "img": "https://i.pinimg.com/736x/d3/04/27/d30427d6ad2a2594611124f10836fb3b.jpg"
       }
     },
     {
@@ -140,7 +151,8 @@
         "breed": "Husky",
         "size": 3,
         "play_style": 1,
-        "bio": "I'm an adventurous and energetic companion who loves to explore the great outdoors. Whether we're going on a hiking adventure or running through the snow, I'll be your trusty guide. But I also have a mischievous side and love to play pranks and keep you on your toes."
+        "bio": "I'm an adventurous and energetic companion who loves to explore the great outdoors. Whether we're going on a hiking adventure or running through the snow, I'll be your trusty guide. But I also have a mischievous side and love to play pranks and keep you on your toes.",
+        "img": "https://i.pinimg.com/736x/5b/3a/0f/5b3a0f5597e517d0294a16dd46c873d5.jpg"
       }
     }
 ]
