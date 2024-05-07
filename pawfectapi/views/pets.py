@@ -1,3 +1,4 @@
+from django.shortcuts import get_object_or_404
 from rest_framework import serializers
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
@@ -141,6 +142,32 @@ class Pets(ViewSet):
         serializer = PetSerializer(pets, many=True, context={"request": request})
 
         return Response(serializer.data)
+
+    @action(methods=["POST", "DELETE"], detail=True)
+    def favorite(self, request, pk=None):
+
+        user = request.auth.user
+        pet = Pet.objects.get(pk=pk)
+
+        if request.method == "POST":
+            try:
+                existing_favorite = Favorite.objects.get(pet=pet, user=user)
+                return Response(
+                    "Pet already favorited by current user",
+                    status=status.HTTP_405_METHOD_NOT_ALLOWED,
+                )
+            except Favorite.DoesNotExist:
+                favorite = Favorite(user=user, pet=pet)
+                favorite.save()
+                return Response(None, status=status.HTTP_204_NO_CONTENT)
+
+        if request.method == "DELETE":
+            try:
+                favorite = Favorite.objects.get(pet=pet, user=user)
+                favorite.delete()
+                return Response(None, status=status.HTTP_204_NO_CONTENT)
+            except Favorite.DoesNotExist:
+                return Response("Favorite not found", status=status.HTTP_404_NOT_FOUND)
 
     @action(methods=["get"], detail=False)
     def user_pets(self, request):
